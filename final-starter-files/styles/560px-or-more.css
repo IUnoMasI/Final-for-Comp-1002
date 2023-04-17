@@ -1,0 +1,21 @@
+
+
+@media screen and (max-width: 560px) {
+    header h2 {
+        display: none;
+    }
+
+    nav a {
+        padding: 1em 0;
+        text-align: center;
+    }
+
+    figure {
+        float: none;
+        text-align: center;
+    }
+    
+    figure img {
+        width: 50%
+    }
+}
